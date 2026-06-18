@@ -13,7 +13,7 @@
 
 ---
 
-### 🧠 Tentang Saya
+###  Tentang Saya
 
 -  Sedang mendalami **Data Science** — machine learning, analisis data, dan visualisasi
 -  Juga fokus di **Cybersecurity** — khususnya **Blue Team** (network defense, threat detection, log analysis)
@@ -22,7 +22,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Data Science & Machine Learning**
 
