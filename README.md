@@ -23,33 +23,6 @@
 
 ---
 
-### 🏆 Sertifikasi
-
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <img src="https://images.credly.com/size/110x110/images/00634f82-b07f-4bb4-8714-1dd5fe1241a5/image.png" width="60"/><br/>
-      <b>Fortinet Network Security Expert Level 3</b><br/>
-      <sub>Certified Associate · Fortinet</sub><br/>
-      <sub>Issued May 2026 · Expires May 2028</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://images.credly.com/size/110x110/images/0e6e2a93-2e7d-44ef-90b2-22e2df1f4f81/image.png" width="60"/><br/>
-      <b>Oracle Cloud Infrastructure 2025</b><br/>
-      <sub>Certified Foundations Associate · Oracle</sub><br/>
-      <sub>Issued May 2026 · Expires May 2028</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="https://images.credly.com/size/110x110/images/9c97a092-9b1c-4ee6-9f3b-2f1c8e5e6cc1/image.png" width="60"/><br/>
-      <b>Certified Cybersecurity Asset Management</b><br/>
-      <sub>Qualys</sub><br/>
-      <sub>Issued Apr 2026 · Expires Apr 2028</sub>
-    </td>
-  </tr>
-</table>
-
----
-
 ### 🛠️ Tech Stack
 
 **Data Science & Machine Learning**
