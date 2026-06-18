@@ -1,7 +1,7 @@
 <h1 align="center">Halo, saya Revalda Haryadaffa Prabaswara </h1>
 
 <p align="center">
-  <b>Data Scientist</b> in progress  &nbsp;|&nbsp; <b>Cybersecurity</b> enthusiast 
+  <b>Data Scientist</b> &nbsp;|&nbsp; <b>Soc Analyst</b>
 </p>
 
 <p align="center">
@@ -15,11 +15,10 @@
 
 ### 🧠 Tentang Saya
 
-- 🔭 Sedang mendalami **Data Science** — machine learning, analisis data, dan visualisasi
-- 🛡️ Juga fokus di **Cybersecurity** — khususnya **Blue Team** (network defense, threat detection, log analysis)
-- 🌱 Belajar menggabungkan kedua bidang: menggunakan data science untuk security analytics
-- 💡 Suka membangun dashboard interaktif dan melakukan investigasi forensik jaringan
-- 📫 Hubungi saya di LinkedIn: [Revalda Haryadaffa Prabaswara](https://www.linkedin.com/in/revaldaharyadaffaprabaswara/)
+-  Sedang mendalami **Data Science** — machine learning, analisis data, dan visualisasi
+-  Juga fokus di **Cybersecurity** — khususnya **Blue Team** (network defense, threat detection, log analysis)
+-  Suka membangun dashboard interaktif dan melakukan investigasi forensik jaringan
+-  Hubungi saya di LinkedIn: [Revalda Haryadaffa Prabaswara](https://www.linkedin.com/in/revaldaharyadaffaprabaswara/)
 
 ---
 
