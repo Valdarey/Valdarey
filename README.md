@@ -1,7 +1,7 @@
-<h1 align="center">Halo, saya Revalda Haryadaffa Prabaswara 👋</h1>
+<h1 align="center">Halo, saya Revalda Haryadaffa Prabaswara </h1>
 
 <p align="center">
-  <b>Data Scientist</b> in progress 📊 &nbsp;|&nbsp; <b>Cybersecurity</b> enthusiast 🛡️
+  <b>Data Scientist</b> in progress  &nbsp;|&nbsp; <b>Cybersecurity</b> enthusiast 
 </p>
 
 <p align="center">
