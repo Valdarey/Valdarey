@@ -42,10 +42,8 @@
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wazuh-3AB7DA?style=for-the-badge&logo=wazuh&logoColor=white"/>
   <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nmap-2C5C99?style=for-the-badge&logo=nmap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Qualys-FF0000?style=for-the-badge&logo=qualys&logoColor=white"/>
   <img src="https://img.shields.io/badge/Microsoft%20Defender%20for%20Endpoint-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white"/>
   <img src="https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white"/>
   <img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=snort&logoColor=white"/>
