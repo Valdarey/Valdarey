@@ -1,7 +1,7 @@
 <h1 align="center">Halo, saya Revalda Haryadaffa Prabaswara </h1>
 
 <p align="center">
-  <b>Data Scientist</b> &nbsp;|&nbsp; <b>Soc Analyst</b>
+  <b>Data Scientist</b> &nbsp;|&nbsp; <b>SOC Analyst</b>
 </p>
 
 <p align="center">
