@@ -4,13 +4,6 @@
   <b>Data Scientist</b> &nbsp;|&nbsp; <b>SOC Analyst</b>
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/revaldaharyadaffaprabaswara/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=Valdarey&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
-
 ---
 
 ###  Tentang Saya
