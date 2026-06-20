@@ -8,7 +8,7 @@
 
 ###  Tentang Saya
 
-Saya sedang mendalami Data Science—machine learning, analisis data, dan visualisasi interaktif. Selain itu, saya juga berperan sebagai SOC Analyst dengan keahlian di network defense, threat detection, log analysis, dan forensik jaringan. Saya suka membangun dashboard yang informatif dan mudah dipahami. Hubungi saya di LinkedIn: [Revalda Haryadaffa Prabaswara](https://www.linkedin.com/in/revaldaharyadaffaprabaswara/)
+Saya sedang mendalami Data Science—machine learning, analisis data, dan visualisasi interaktif. Selain itu, saya juga berperan sebagai SOC Analyst dengan keahlian di network defense, threat detection, log analysis, dan forensik jaringan. Saya terus belajar, mengikuti tren ancaman, dan mengasah kemampuan incident response serta threat hunting. Hubungi saya di LinkedIn: [Revalda Haryadaffa Prabaswara](https://www.linkedin.com/in/revaldaharyadaffaprabaswara/)
 
 ---
 
