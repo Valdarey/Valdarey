@@ -1,14 +1,13 @@
 <h1 align="center">Halo, saya Revalda Haryadaffa Prabaswara </h1>
-
 <p align="center">
-  <b>Data Scientist</b> &nbsp;|&nbsp; <b>Security Analyst</b>
+  <b>Data Scientist</b> &nbsp;|&nbsp; <b>Cybersecurity Analyst</b>
 </p>
 
 ---
 
 ###  Tentang Saya
+Saya sedang mendalami Data Science - machine learning, analisis data, dan visualisasi interaktif. Selain itu, saya juga berperan sebagai SOC Analyst dengan keahlian di network defense, threat detection, log analysis, dan forensik jaringan. Saya terus belajar, mengikuti tren ancaman, dan mengasah kemampuan incident response serta threat hunting.
 
-Saya sedang mendalami Data Science - machine learning, analisis data, dan visualisasi interaktif. Selain itu, saya juga berperan sebagai Security Analyst dengan keahlian di network defense, threat detection, log analysis, dan forensik jaringan. Saya terus belajar, mengikuti tren ancaman, dan mengasah kemampuan incident response serta threat hunting. 
 - Hubungi saya di LinkedIn: [Revalda Haryadaffa Prabaswara](https://www.linkedin.com/in/revaldaharyadaffaprabaswara/)
 
 ---
@@ -16,7 +15,6 @@ Saya sedang mendalami Data Science - machine learning, analisis data, dan visual
 ###  Tech Stack
 
 **Data Science & Machine Learning**
-
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
@@ -27,8 +25,7 @@ Saya sedang mendalami Data Science - machine learning, analisis data, dan visual
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-**Security Analyst**
-
+**Cybersecurity Analyst**
 <p align="left">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wazuh-3AB7DA?style=for-the-badge&logo=wazuh&logoColor=white"/>
@@ -40,6 +37,9 @@ Saya sedang mendalami Data Science - machine learning, analisis data, dan visual
   <img src="https://img.shields.io/badge/Snort-FF0000?style=for-the-badge&logo=snort&logoColor=white"/>
   <img src="https://img.shields.io/badge/Autopsy-4A154B?style=for-the-badge&logo=autopsy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=microsoft&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Metasploit-2596BE?style=for-the-badge&logo=metasploit&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Hydra-000000?style=for-the-badge&logo=thc&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dirsearch-4B0082?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
 </p>
 
 ---
