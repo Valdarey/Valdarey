@@ -1,12 +1,12 @@
 <h1 align="center">Halo, saya Revalda Haryadaffa Prabaswara </h1>
 <p align="center">
-  <b>Data Scientist</b> &nbsp;|&nbsp; <b>Cybersecurity Analyst</b>
+  <b>Data Scientist</b> &nbsp;|&nbsp; <b>Security Analyst</b>
 </p>
 
 ---
 
 ###  Tentang Saya
-Saya sedang mendalami Data Science - machine learning, analisis data, dan visualisasi interaktif. Selain itu, saya juga berperan sebagai SOC Analyst dengan keahlian di network defense, threat detection, log analysis, dan forensik jaringan. Saya terus belajar, mengikuti tren ancaman, dan mengasah kemampuan incident response serta threat hunting.
+Saya sedang mendalami Data Science - machine learning, analisis data, dan visualisasi interaktif. Selain itu, saya juga berperan sebagai Security Analyst dengan keahlian di network defense, threat detection, log analysis, dan forensik jaringan. Saya terus belajar, mengikuti tren ancaman, dan mengasah kemampuan incident response serta threat hunting.
 
 - Hubungi saya di LinkedIn: [Revalda Haryadaffa Prabaswara](https://www.linkedin.com/in/revaldaharyadaffaprabaswara/)
 
@@ -25,7 +25,7 @@ Saya sedang mendalami Data Science - machine learning, analisis data, dan visual
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-**Cybersecurity Analyst**
+**Security Analyst**
 <p align="left">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white"/>
   <img src="https://img.shields.io/badge/Wazuh-3AB7DA?style=for-the-badge&logo=wazuh&logoColor=white"/>
