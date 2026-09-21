@@ -1,6 +1,6 @@
 <h1 align="center">Halo, saya Revalda Haryadaffa Prabaswara </h1>
 <p align="center">
-  &nbsp; <b>Security Researche | Bug Bounty Hunter</b>
+  &nbsp; <b>Security Researcher | Bug Bounty Hunter</b>
 </p>
 
 ---
