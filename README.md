@@ -6,9 +6,9 @@
 ---
 
 ###  Tentang Saya
-Saya aktif mendalami cybersecurity, dengan dua peran: sebagai Security Analyst (network defense, threat detection, log analysis, forensik jaringan) maupun Penetration Tester (vulnerability assessment, exploitation). Saya terus belajar, mengikuti tren ancaman, dan mengasah kemampuan incident response serta threat hunting. Saya juga memiliki latar belakang di Data Science — machine learning, analisis data, dan visualisasi interaktif.
+Saya memiliki ketertarikan dan fokus dalam bidang cybersecurity, khususnya Security Research, Web Application Security, dan Network Security. Saya aktif mengembangkan kemampuan melalui praktik langsung, termasuk vulnerability assessment, analisis network traffic, digital forensics, dan investigasi keamanan aplikasi web.
 
-- Hubungi saya di LinkedIn: [Revalda Haryadaffa Prabaswara](https://www.linkedin.com/in/revaldaharyadaffaprabaswara/)
+Saat ini, saya juga aktif berpartisipasi dalam berbagai program bug bounty dan telah memperoleh 2 temuan kerentanan valid. Selain itu, saya memiliki ketertarikan pada Data Science dan Machine Learning, khususnya penerapannya dalam keamanan jaringan melalui pengembangan model Intrusion Detection System (IDS).
 
 ---
 
