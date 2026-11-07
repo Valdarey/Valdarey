@@ -8,7 +8,7 @@
 ###  Tentang Saya
 Saya memiliki ketertarikan dan fokus dalam bidang cybersecurity, khususnya Security Research, Web Application Security, dan Network Security. Saya aktif mengembangkan kemampuan melalui praktik langsung, termasuk vulnerability assessment, analisis network traffic, digital forensics, dan investigasi keamanan aplikasi web.
 
-Saat ini, saya juga aktif berpartisipasi dalam berbagai program bug bounty dan telah memperoleh 2 temuan kerentanan valid. Selain itu, saya memiliki ketertarikan pada Data Science dan Machine Learning, khususnya penerapannya dalam keamanan jaringan melalui pengembangan model Intrusion Detection System (IDS).
+Saat ini, saya juga aktif berpartisipasi dalam berbagai program bug bounty. Selain itu, saya memiliki ketertarikan pada Data Science dan Machine Learning, khususnya penerapannya dalam keamanan jaringan melalui pengembangan model Intrusion Detection System (IDS).
 
 ---
 
